@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+
+body {
+  font-family: Inconsolata, serif;
+}
+
+.jumbotron {
+  color: white;
+  background-image: url("image/america.jpeg");
+  background-position: center;
+
+}
+
+ul {
+  list-style: none;
+}

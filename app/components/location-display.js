@@ -6,7 +6,7 @@ export default Ember.Component.extend({
   }),
   actions: {
     requestPolitician(politician) {
-      this.sendAction('requestPolitician', politician.last_name)
+      this.sendAction('requestPolitician', politician.last_name);
     }
   }
 });
